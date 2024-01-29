@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"c:\\Users\\Prathmesh\\Desktop\\React\\Assignment\\abc.cpp","tests":[{"id":1705930899462,"input":"8\n9\n72\n45\n19\n19\n99\n1001\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Prathmesh\\Desktop\\React\\Assignment\\abc.cpp","group":"local","local":true}
